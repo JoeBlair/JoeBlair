@@ -6,7 +6,7 @@ Im a Medical Data Scientist, working on improving the treatment of patients thro
 - 🌱 I’m currently learning more front end development for project deployment
 - 👯 I’m looking to collaborate on any fun projects out there!
 - 🤔 I’m looking for help with Mass Spectrometry Analysis
-- 💬 Ask me about ...
+- 💬 Ask me about anything im working on...
 - 📫 How to reach me: josephpmblair@gmail.com
 - ⚡ Fun fact: I just graduated from my PhD!
 
