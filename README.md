@@ -1,4 +1,4 @@
-# Hi! Im Joe 👋
+# Hi! I'm Joe 👋
 
 I'm a Medical Data Scientist, working on improving the treatment of patients through machine learning and data driven techniques. I'm most experienced working with musculoskelteal diseases such as OA and RA. I'm a huge sports fan, so would love to work on projects that can combine with medicine and sports. Hit me up!
 
