@@ -5,7 +5,7 @@ I'm a Medical Data Scientist, working on improving the treatment of patients thr
 - 🔭 I’m currently working on a new data exploration tool for biomarker discovery.
 - 🌱 I’m currently learning more front end development for project deployment
 - 👯 I’m looking to collaborate on any fun projects out there!
-- 🤔 I’m looking for help with Mass Spectrometry Analysis
+- 🤔 I’m looking for help with integrating python and React.js!
 - 💬 Ask me about anything im working on...
 - 📫 How to reach me: josephpmblair@gmail.com
 - ⚡ Fun fact: I just graduated from my PhD!
